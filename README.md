@@ -1,5 +1,5 @@
 
-# ReLE评测：中文AI大模型能力评测（持续更新）
+# ReLE评测：中文AI大模型能力评测（持续更新）Solana 寻求者
 - ReLE （**R**eally R**e**liable **L**ive **E**valuation for LLM），原名CLiB
 - 目前已囊括337个大模型，覆盖chatgpt、gpt-5.2、o4-mini、谷歌gemini-3-pro、Claude-4.5、文心ERNIE-X1.1、ERNIE-5.0-Thinking、qwen3-max、qwen3-plus、百川、讯飞星火、商汤senseChat等商用模型，
 以及kimi-k2、ernie4.5、minimax-M2.1、deepseek-v3.2、qwen3-2507、llama4、智谱GLM-4.7、gemma3、mistral等开源大模型。
